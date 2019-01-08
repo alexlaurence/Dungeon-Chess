@@ -1,2 +1,2 @@
-# -Dungeon-Chess
+# Dungeon Chess
 Cute Chess Game
