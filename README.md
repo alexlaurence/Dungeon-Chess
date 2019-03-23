@@ -2,5 +2,5 @@
 Cute Chess Game
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/alexlaurence/Dungeon-Chess/master/Screen.png" data-canonical-src="https://raw.githubusercontent.com/alexlaurence/Dungeon-Chess/master/Screen.png" width="35%"/>
+<img src="https://raw.githubusercontent.com/alexlaurence/Dungeon-Chess/master/Screen.png" data-canonical-src="https://raw.githubusercontent.com/alexlaurence/Dungeon-Chess/master/Screen.png" width="55%"/>
 </p>
